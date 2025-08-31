@@ -2,22 +2,22 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
-    <title>Notes App</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Notes</title>
+    <link rel="stylesheet" href="style.css" />
 </head>
 
 <body>
     <div class="container">
-        <h1><img src="images/notes.png">Notes</h1>
-        <button class="btn"><img src="images/edit.png">Create Notes</button>
-        <div class="notes-container">
-            <!-- <p contenteditable="true" class="input-box">
-                <img src="images/delete.png" alt="">
-            </p> -->
-        </div>
-        <div id="notesList"></div>
+        <header>
+            <h1>Notes</h1>
+            <div class="controls">
+                <input class="search-input" placeholder="Search notes..." />
+                <button class="btn-new">➕ New Note</button>
+            </div>
+        </header>
+        <main class="notes-container"></main>
     </div>
     <script src="script.js"></script>
 </body>
