@@ -56,6 +56,13 @@ Commit the three files to a GitHub repository and enable GitHub Pages for the ma
 Alternatively, deploy to any static host (Netlify, Vercel, or an S3 bucket with static hosting) by uploading the three files as is.
 
 
-## *For my MVP, this is the output after hosting it on Netlify:*
+# *For my MVP, this is the output after hosting it on Netlify:*
 
-<img width="1912" height="1011" alt="image" src="https://github.com/user-attachments/assets/d205786c-ccdd-4ef3-8140-d8efe414831f" />
+<img width="1919" height="1015" alt="image" src="https://github.com/user-attachments/assets/68ac38bf-149a-427c-9e02-c025364bbf12" />
+
+## To add a new note, click on NEW NOTE and PIN if needed. Follow-up for the other functionalities as well.
+
+<img width="1919" height="1012" alt="image" src="https://github.com/user-attachments/assets/878bc1ee-4a52-4c0e-99a0-cfb0675621a0" />
+
+
+
