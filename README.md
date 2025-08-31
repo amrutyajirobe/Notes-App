@@ -1,4 +1,5 @@
-# Notes‑App [live] (https://noteapp-aj.netlify.app/) 
+# [Notes-App](https://noteapp-aj.netlify.app/ 'Click Me')
+
 A lightweight, client‑side notes app built with HTML, CSS, and vanilla JavaScript that stores notes in the browser using the Web Storage API’s localStorage for persistence between page reloads..
 
 ## Features
