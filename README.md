@@ -62,7 +62,8 @@ Alternatively, deploy to any static host (Netlify, Vercel, or an S3 bucket with 
 
 ## To add a new note, click on NEW NOTE and PIN if needed. Follow-up for the other functionalities as well.
 
-<img width="1919" height="1012" alt="image" src="https://github.com/user-attachments/assets/878bc1ee-4a52-4c0e-99a0-cfb0675621a0" />
+<img width="1919" height="1015" alt="image" src="https://github.com/user-attachments/assets/46236afe-ee75-4223-9f6e-3c88025507e2" />
+
 
 
 
