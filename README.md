@@ -53,7 +53,7 @@ Add keyboard shortcuts, drag‑to‑reorder, and simple full‑text search acros
 ## Deployment
 Commit the three files to a GitHub repository and enable GitHub Pages for the main branch to serve the static site at https://<user>.github.io/<repo>/; no backend configuration is required..
 
-Alternatively, deploy to any static host (Netlify, Vercel, or an S3 bucket with static hosting) by uploading the three files as is..
+Alternatively, deploy to any static host (Netlify, Vercel, or an S3 bucket with static hosting) by uploading the three files as is.
 
 
 ## *For my MVP, this is the output after hosting it on Netlify:*
